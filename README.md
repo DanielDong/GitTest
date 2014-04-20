@@ -17,3 +17,4 @@ git rm --cached <filename> - remove <filename> from staging area, not working tr
 AAAAAAAA
 BBBBBBB
 CCCCCCC
+DDDDDD
