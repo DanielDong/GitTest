@@ -13,3 +13,6 @@ git push origin <branch> - to push committed changes to remote repo.
 git commit -m "message" - commit changes to HEAD.
 git checkout -b <new_branch> - create a new branch and switch to it
 git rm --cached <filename> - remove <filename> from staging area, not working tree.
+
+AAAAAAAA
+BBBBBBB
