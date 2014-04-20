@@ -7,4 +7,7 @@ git config --global user.name "dongshichao"
 git config --global user.email "dongshichao1988@gmail.com"
 git commit --amend --reset-author
 git reset HEAD <file> - to unstage
-git checkout -- <filename> to discard changes in working directory 
+git checkout -- <filename> to discard changes in working directory before add.
+
+git push origin <branch> - to push committed changes to remote repo.
+git commit -m "message" - commit changes to HEAD.
