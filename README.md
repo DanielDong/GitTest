@@ -11,3 +11,5 @@ git checkout -- <filename> to discard changes in working directory before add.
 
 git push origin <branch> - to push committed changes to remote repo.
 git commit -m "message" - commit changes to HEAD.
+
+ALOHAALOHAALOHAALOHAALOHAALOHAALOHAALOHA
