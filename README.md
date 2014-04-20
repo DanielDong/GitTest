@@ -9,4 +9,6 @@ git commit --amend --reset-author
 git reset HEAD <file> - to unstage
 git checkout -- <filename> to discard changes in working directory
 
-git checkout -b <new_branch> - create a new branch and switch to it 
+git checkout -b <new_branch> - create a new branch and switch to it
+git rm --cached <filename> - remove <filename> from staging area, not working tree.
+ 
