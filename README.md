@@ -4,4 +4,7 @@ git add <filename> - add <filename> to the staging area[index]
 git clone /path/to/repo - clone a local repo to current repo.
 git clone username@host:/path/to/repo - clone a remote repo to current dir.
 git config --global user.name "dongshichao"
-git config --global user.email "dongshichao1988@gmail.com" 
+git config --global user.email "dongshichao1988@gmail.com"
+git commit --amend --reset-author
+git reset HEAD <file> - to unstage
+git checkout -- <filename> to discard changes in working directory 
